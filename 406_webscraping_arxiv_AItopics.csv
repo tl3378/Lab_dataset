@@ -1,0 +1,66 @@
+Title,Authors,Publish Date,Topic,PDF Link,Abstract,First Author Name,First Author h-index,Second Author Name,Second Author h-index
+"=HYPERLINK(""http://arxiv.org/abs/2410.20753v1"", ""Plan$\times$RAG: Planning-guided Retrieval Augmented Generation"")","Prakhar Verma, Sukruta Prakash Midigeshi, Gaurav Sinha, Arno Solin, Nagarajan Natarajan, Amit Sharma",2024-10-28T05:35:04Z,"Retrieval Augmented Generation, RAG",http://arxiv.org/pdf/2410.20753v1.pdf,"We introduce Planning-guided Retrieval Augmented Generation
+(Plan$\times$RAG), a novel framework that augments the
+\emph{retrieve-then-reason} paradigm of existing RAG frameworks to
+\emph{plan-then-re...",Prakhar Verma,45,Sukruta Prakash Midigeshi,0
+"=HYPERLINK(""http://arxiv.org/abs/2410.15267v1"", ""When Machine Unlearning Meets Retrieval-Augmented Generation (RAG): Keep
+  Secret or Forget Knowledge?"")","Shang Wang, Tianqing Zhu, Dayong Ye, Wanlei Zhou",2024-10-20T03:51:01Z,RAG,http://arxiv.org/pdf/2410.15267v1.pdf,"The deployment of large language models (LLMs) like ChatGPT and Gemini has
+shown their powerful natural language generation capabilities. However, these
+models can inadvertently learn and retain sensi...",Shang Wang,3003,Tianqing Zhu,7438
+"=HYPERLINK(""http://arxiv.org/abs/2410.15944v1"", ""Developing Retrieval Augmented Generation (RAG) based LLM Systems from
+  PDFs: An Experience Report"")","Ayman Asad Khan, Md Toufique Hasan, Kai Kristian Kemell, Jussi Rasku, Pekka Abrahamsson",2024-10-21T12:21:49Z,"Retrieval Augmented Generation, RAG",http://arxiv.org/pdf/2410.15944v1.pdf,"This paper presents an experience report on the development of Retrieval
+Augmented Generation (RAG) systems using PDF documents as the primary data
+source. The RAG architecture combines generative cap...",Ayman Asad Khan,N/A,Md Toufique Hasan,21
+"=HYPERLINK(""http://arxiv.org/abs/2410.23000v2"", ""Long$^2$RAG: Evaluating Long-Context & Long-Form Retrieval-Augmented
+  Generation with Key Point Recall"")","Zehan Qi, Rongwu Xu, Zhijiang Guo, Cunxiang Wang, Hao Zhang, Wei Xu",2024-10-30T13:29:36Z,RAG,http://arxiv.org/pdf/2410.23000v2.pdf,"Retrieval-augmented generation (RAG) is a promising approach to address the
+limitations of fixed knowledge in large language models (LLMs). However,
+current benchmarks for evaluating RAG systems suffe...",Zehan Qi,26,Rongwu Xu,50
+"=HYPERLINK(""http://arxiv.org/abs/2410.14881v1"", ""Class-RAG: Content Moderation with Retrieval Augmented Generation"")","Jianfa Chen, Emily Shen, Trupti Bavalatti, Xiaowen Lin, Yongkai Wang, Shuming Hu, Harihar Subramanyam, Ksheeraj Sai Vepuri, Ming Jiang, Ji Qi, Li Chen, Nan Jiang, Ankit Jain",2024-10-18T22:07:36Z,"Retrieval Augmented Generation, RAG",http://arxiv.org/pdf/2410.14881v1.pdf,"Robust content moderation classifiers are essential for the safety of
+Generative AI systems. Content moderation, or safety classification, is
+notoriously ambiguous: differences between safe and unsafe...",Jianfa Chen,1840,Emily Shen,1613
+"=HYPERLINK(""http://arxiv.org/abs/2411.01751v1"", ""RAGViz: Diagnose and Visualize Retrieval-Augmented Generation"")","Tevin Wang, Jingyuan He, Chenyan Xiong",2024-11-04T02:30:05Z,RAG,http://arxiv.org/pdf/2411.01751v1.pdf,"Retrieval-augmented generation (RAG) combines knowledge from domain-specific
+sources into large language models to ground answer generation. Current RAG
+systems lack customizable visibility on the con...",Tevin Wang,N/A,Jingyuan He,207
+"=HYPERLINK(""http://arxiv.org/abs/2410.20142v1"", ""Mask-based Membership Inference Attacks for Retrieval-Augmented
+  Generation"")","Mingrui Liu, Sixiao Zhang, Cheng Long",2024-10-26T10:43:39Z,Other,http://arxiv.org/pdf/2410.20142v1.pdf,"Retrieval-Augmented Generation (RAG) has been an effective approach to
+mitigate hallucinations in large language models (LLMs) by incorporating
+up-to-date and domain-specific knowledge. Recently, ther...",Mingrui Liu,992,Sixiao Zhang,167
+"=HYPERLINK(""http://arxiv.org/abs/2410.20598v2"", ""R^3AG: First Workshop on Refined and Reliable Retrieval Augmented
+  Generation"")","Zihan Wang, Xuri Ge, Joemon M. Jose, Haitao Yu, Weizhi Ma, Zhaochun Ren, Xin Xin",2024-10-27T21:12:12Z,Other,http://arxiv.org/pdf/2410.20598v2.pdf,"Retrieval-augmented generation (RAG) has gained wide attention as the key
+component to improve generative models with external knowledge augmentation
+from information retrieval. It has shown great pro...",Zihan Wang,2043,Xuri Ge,112
+"=HYPERLINK(""http://arxiv.org/abs/2410.20878v1"", ""AutoRAG: Automated Framework for optimization of Retrieval Augmented
+  Generation Pipeline"")","Dongkyu Kim, Byoungwook Kim, Donggeon Han, Matouš Eibich",2024-10-28T09:55:52Z,RAG,http://arxiv.org/pdf/2410.20878v1.pdf,"Using LLMs (Large Language Models) in conjunction with external documents has
+made RAG (Retrieval-Augmented Generation) an essential technology. Numerous
+techniques and modules for RAG are being resea...",Dongkyu Kim,1447,Byoungwook Kim,180
+"=HYPERLINK(""http://arxiv.org/abs/2410.22954v1"", ""Retrieval-Augmented Generation with Estimation of Source Reliability"")","Jeongyeon Hwang, Junyoung Park, Hyejin Park, Sangdon Park, Jungseul Ok",2024-10-30T12:09:29Z,Other,http://arxiv.org/pdf/2410.22954v1.pdf,"Retrieval-augmented generation (RAG) addresses key limitations of large
+language models (LLMs), such as hallucinations and outdated knowledge, by
+incorporating external databases. These databases typi...",Jeongyeon Hwang,105,Junyoung Park,1095
+"=HYPERLINK(""http://arxiv.org/abs/2410.23090v1"", ""CORAL: Benchmarking Multi-turn Conversational Retrieval-Augmentation
+  Generation"")","Yiruo Cheng, Kelong Mao, Ziliang Zhao, Guanting Dong, Hongjin Qian, Yongkang Wu, Tetsuya Sakai, Ji-Rong Wen, Zhicheng Dou",2024-10-30T15:06:32Z,Other,http://arxiv.org/pdf/2410.23090v1.pdf,"Retrieval-Augmented Generation (RAG) has become a powerful paradigm for
+enhancing large language models (LLMs) through external knowledge retrieval.
+Despite its widespread attention, existing academic...",Yiruo Cheng,7,Kelong Mao,387
+"=HYPERLINK(""http://arxiv.org/abs/2410.23902v1"", ""Responsible Retrieval Augmented Generation for Climate Decision Making
+  from Documents"")","Matyas Juhasz, Kalyan Dutia, Henry Franks, Conor Delahunty, Patrick Fawbert Mills, Harrison Pim",2024-10-31T13:05:39Z,Retrieval Augmented Generation,http://arxiv.org/pdf/2410.23902v1.pdf,"Climate decision making is constrained by the complexity and inaccessibility
+of key information within lengthy, technical, and multi-lingual documents.
+Generative AI technologies offer a promising rou...",Matyas Juhasz,347,Kalyan Dutia,9
+"=HYPERLINK(""http://arxiv.org/abs/2411.00300v1"", ""Rationale-Guided Retrieval Augmented Generation for Medical Question
+  Answering"")","Jiwoong Sohn, Yein Park, Chanwoong Yoon, Sihyeon Park, Hyeon Hwang, Mujeen Sung, Hyunjae Kim, Jaewoo Kang",2024-11-01T01:40:23Z,Retrieval Augmented Generation,http://arxiv.org/pdf/2411.00300v1.pdf,"Large language models (LLM) hold significant potential for applications in
+biomedicine, but they struggle with hallucinations and outdated knowledge.
+While retrieval-augmented generation (RAG) is gene...",Jiwoong Sohn,6,Yein Park,12
+"=HYPERLINK(""http://arxiv.org/abs/2411.01705v1"", ""Data Extraction Attacks in Retrieval-Augmented Generation via Backdoors"")","Yuefeng Peng, Junda Wang, Hong Yu, Amir Houmansadr",2024-11-03T22:27:40Z,Other,http://arxiv.org/pdf/2411.01705v1.pdf,"Despite significant advancements, large language models (LLMs) still struggle
+with providing accurate answers when lacking domain-specific or up-to-date
+knowledge. Retrieval-Augmented Generation (RAG)...",Yuefeng Peng,687,Junda Wang,847
+"=HYPERLINK(""http://arxiv.org/abs/2411.02832v2"", ""PersianRAG: A Retrieval-Augmented Generation System for Persian Language"")","Hossein Hosseini, Mohammad Sobhan Zare, Amir Hossein Mohammadi, Arefeh Kazemi, Zahra Zojaji, Mohammad Ali Nematbakhsh",2024-11-05T06:11:17Z,RAG,http://arxiv.org/pdf/2411.02832v2.pdf,"Retrieval augmented generation (RAG) models, which integrate large-scale
+pre-trained generative models with external retrieval mechanisms, have shown
+significant success in various natural language pr...",Hossein Hosseini,8808,Mohammad Sobhan Zare,N/A
+"=HYPERLINK(""http://arxiv.org/abs/2411.06037v1"", ""Sufficient Context: A New Lens on Retrieval Augmented Generation Systems"")","Hailey Joren, Jianyi Zhang, Chun-Sung Ferng, Da-Cheng Juan, Ankur Taly, Cyrus Rashtchian",2024-11-09T02:13:14Z,Retrieval Augmented Generation,http://arxiv.org/pdf/2411.06037v1.pdf,"Augmenting LLMs with context leads to improved performance across many
+applications. Despite much research on Retrieval Augmented Generation (RAG)
+systems, an open question is whether errors arise bec...",Hailey Joren,19,Jianyi Zhang,14371
+"=HYPERLINK(""http://arxiv.org/abs/2411.06237v1"", ""Leveraging Retrieval-Augmented Generation for University Knowledge
+  Retrieval"")","Arshia Hemmat, Kianoosh Vadaei, Mohammad Hassan Heydari, Afsaneh Fatemi",2024-11-09T17:38:01Z,RAG,http://arxiv.org/pdf/2411.06237v1.pdf,"This paper introduces an innovative approach using Retrieval-Augmented
+Generation (RAG) pipelines with Large Language Models (LLMs) to enhance
+information retrieval and query response systems for univ...",Arshia Hemmat,0,Kianoosh Vadaei,0
+"=HYPERLINK(""http://arxiv.org/abs/2411.07773v1"", ""Likelihood as a Performance Gauge for Retrieval-Augmented Generation"")","Tianyu Liu, Jirui Qi, Paul He, Arianna Bisazza, Mrinmaya Sachan, Ryan Cotterell",2024-11-12T13:14:09Z,Other,http://arxiv.org/pdf/2411.07773v1.pdf,"Recent work finds that retrieval-augmented generation with large language
+models is prone to be influenced by the order of retrieved documents in the
+context. However, the lack of in-depth analysis li...",Tianyu Liu,12830,Jirui Qi,3
